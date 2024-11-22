@@ -54,15 +54,15 @@ export const projects = [
     link: "https://sushilkrg.github.io/Image-Gallery/",
     code: "https://github.com/sushilkrg/Image-Gallery",
   },
-  {
-    title: "Text Editor and Word Counter",
-    subtitle: "Reactjs, Bootstrap",
-    description:
-      "A Text Editor and Word Counter Web App built with React is a powerful tool for editing and analyzing text efficiently. It allows users to input, edit, and format text while providing real-time insights such as word count, character count, and reading time.",
-    image: "/images/text-utils.png",
-    link: "https://text-utils-six.vercel.app/",
-    code: "https://github.com/sushilkrg/TextUtils-React-App",
-  },
+//   {
+//     title: "Text Editor and Word Counter",
+//     subtitle: "Reactjs, Bootstrap",
+//     description:
+//       "A Text Editor and Word Counter Web App built with React is a powerful tool for editing and analyzing text efficiently. It allows users to input, edit, and format text while providing real-time insights such as word count, character count, and reading time.",
+//     image: "/images/text-utils.png",
+//     link: "https://text-utils-six.vercel.app/",
+//     code: "https://github.com/sushilkrg/TextUtils-React-App",
+//   },
 ];
 
 export const skills = [
